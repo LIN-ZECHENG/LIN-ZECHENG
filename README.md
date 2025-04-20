@@ -1,24 +1,20 @@
+![Simple-Dot-[remix]](https://github.com/LIN-ZECHENG/LIN-ZECHENG/blob/main/SRC/Simple-Dot-%5Bremix%5D.gif?raw=true)
+
 ## 👋 Introduction
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![gender](https://img.shields.io/badge/gender-%F0%9F%A7%A9-lightgrey) ![](https://img.shields.io/static/v1?label=wechat&message=13774518459&color=7BB32E&logo=wechat)
+Hi there! I'm **Lin Zecheng**
+ 🎓 An undergraduate majoring in **Artificial Intelligence** at **Xidian University**, Xi’an, China 🇨🇳
 
-![Simple-Dot-[remix]](https://github.com/lizn670/lizn670/blob/main/Simple-Dot-%5Bremix%5D.gif?raw=true)
-Hi there! I'm **Lin Zecheng (林泽成)**  
-🎓 An undergraduate majoring in **Artificial Intelligence** at **Xidian University**, Xi’an, China 🇨🇳
+💡 I'm passionate about:
 
-💡 I'm passionate about:  
+- 🧠 **Large Language Models (LLMs)**
+- 🛡️ **Adversarial Attacks on LLMs**
+- 🔐 **LLM Safety & Robustness**
+- 🌐 **Natural Language Processing (NLP)**
 
-- 🧠 **Large Language Models (LLMs)**  
-- 🧬 **AI4Science & Cognitive Computing**  
-- 🌐 **NLP**  
-- 🤖 Open Source & Real-World AI Applications
+🛠 I enjoy:
 
-🛠 I enjoy:  
-
-- 🧪 Research & Innovation  
-- 📊 Data-driven problem solving  
-- 📝 Academic writing & Scientific visualization  
-- 🌱 Always learning something new!
-
-📌 I'm currently looking for **research collaborations**, **internships**, and future opportunities in **AI, NLP, and Cognitive Computing**.  
-Let’s connect and build something amazing together!
+- 🧪 Research & Experimental Innovation
+- 🛠️ Designing robust AI systems
+- 📝 Academic writing & Scientific visualization
+- 💻 Working with **Python** and **C++**
