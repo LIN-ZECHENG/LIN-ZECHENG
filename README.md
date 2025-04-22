@@ -19,7 +19,6 @@ Hi there! I'm **Lin Zecheng**
 - 📝 Academic writing & Scientific visualization
 - 💻 Working with **Python** and **C++**
 
-
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=linzecheng&theme=summer&hide=avatar&dithering=true">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=linzecheng&screen_effect=true&theme=blue_chill&hide=avatar&dithering=true">
