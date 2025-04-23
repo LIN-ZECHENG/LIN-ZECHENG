@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e5b83552-9452-480f-a244-c6d85c9ae9c9)![Simple-Dot-[remix]](https://github.com/LIN-ZECHENG/LIN-ZECHENG/blob/main/SRC/Simple-Dot-%5Bremix%5D.gif?raw=true)
+![Simple-Dot-[remix]](https://github.com/LIN-ZECHENG/LIN-ZECHENG/blob/main/SRC/Simple-Dot-%5Bremix%5D.gif?raw=true)
 
 ## 👋 Introduction
 
